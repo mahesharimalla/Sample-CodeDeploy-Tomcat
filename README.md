@@ -1,2 +1,2 @@
-# Sample-CodeDeploy-Tomcat
-Codedeploy integration with github for testing
+# aws-codedeploy-sample-tomcat
+A sample Tomcat application integrated with CodeDeploy. 
